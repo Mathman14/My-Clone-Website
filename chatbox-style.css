@@ -1,0 +1,69 @@
+*  {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.chartbox-bgrd  {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: url(./landscape\ 1.jpg);
+    background-size: cover;
+}
+.chatbox-container  {
+    height: 450px;
+    width: 380px;
+    border-radius: 10px;
+    border: 2px solid;
+    position: absolute;
+    left: 810px;
+    top: 230px;
+    box-shadow: 0 0 25px 2px ;
+}
+.chatbox-header  {
+    height: 61px;
+    width: 377px;
+    border-bottom: 1px solid;
+    border-radius-top:15px;
+    background-color: #00D285;
+}
+.chatbox-header img  {
+    position: absolute;
+    top: 7px;
+    left: 5px;
+    width: 45px;
+    height:45px;
+    border-radius: 40px;
+    border: 1px solid;
+
+}
+.user-profile1  {
+    display: flex;
+    gap: 15px;
+    height: 70px;
+    position: absolute;
+    top: 7rem;
+    left: 2rem;
+    
+
+}
+.user-profile2 {
+    display: flex;
+    gap: 15px;
+    height: 70px;
+    position: absolute;
+    top: 14rem;
+    left: 2rem;
+
+
+}
+.user-reply-box input  {
+    position: absolute;
+    top: 23rem;
+    left: 2rem;
+    height: 50px;
+    width: 290px;
+    border-radius: 10px;
+    text-indent: 10px;
+    line-height: 20px;
+}

@@ -1,0 +1,36 @@
+
+.home-page .intro-page1  {
+    background-color: black;
+    background:#000000;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-page .intro-page2  {
+    background-color: #00D285;
+}
+.home-page .intro-page-img  {
+    background-color: blueviolet;
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0,0,0,0.3),rgba(0,0,0,0.7)),url(./images/Rectangle\ 49.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.home-page .intro-page3  {
+    background-color:#00D285 ;
+}
+.btn1  {
+    background: #00D285;
+}
+nav ul  {
+    color: white;
+}
+.font-message  {
+    background-color:#00D285;
+}
+.image-section  {
+    background: url(./images/Rectangle\ 70.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
