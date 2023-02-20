@@ -59,7 +59,7 @@ body  {
     left: 78rem;
     border-radius:10px ;
 }
-#intro-page-text1  {
+.intro-page-text1  {
     position: relative;
     top: 15rem;
     left: 13rem;
@@ -71,7 +71,7 @@ body  {
     line-height: 60px;
     
 }
-#intro-page-text2  {
+.intro-page-text2  {
     position: relative;
     width: 520px;
     height: 113px;
@@ -90,6 +90,7 @@ body  {
     top: 288px;
     border-radius: 100px;
 }
+
 .btn2  {
     position: relative;
     height: 55px;
@@ -152,10 +153,7 @@ nav ul  {
     border-radius: 10px;
     width: 555px;
     height: 621px;
-    top:4rem ;
-    
-    
-    
+    top:4rem ;   
 }
 .heading-section1  {
     position: relative;
@@ -186,7 +184,6 @@ nav ul  {
     justify-content: space-between;
     position: absolute;
     top: 12rem;
-    left: ;
     gap: 15px;
 
 }
@@ -196,7 +193,7 @@ nav ul  {
     height:4rem;
 }
 
-#subheading1-tilte1  {
+.subheading1-tilte1  {
     width: 143px;
     height: 21px;
     font-family: 'Poppins';
@@ -206,7 +203,7 @@ nav ul  {
     line-height: 21px;
     
 }
-#tittle1-word  {
+.tittle1-word  {
     
     width: 437px;
     height: 51px;
@@ -231,7 +228,7 @@ nav ul  {
     width: 4rem;
     height: 4rem;
 }
-#subheading2-tilte2  {
+.subheading2-tilte2  {
     width: 150px;
     height: 21px;
     font-family: 'Poppins';
@@ -241,7 +238,7 @@ nav ul  {
     line-height: 21px;
     
 }
-#tittle2-word {
+.tittle2-word {
 
     width: 502px;
     height: 51px;
@@ -264,7 +261,7 @@ nav ul  {
     width: 4rem;
     height: 4rem;
 }
-#subheading3-tilte3  {
+.subheading3-tilte3  {
     width: 297px;
     height: 21px;
     font-family: 'Poppins';
@@ -274,7 +271,7 @@ nav ul  {
     line-height: 21px;
     
 }
-#tittle3-word {
+.tittle3-word {
     width: 511px;
     height: 51px;
     font-family: 'Poppins';
@@ -295,7 +292,7 @@ nav ul  {
     width: 4rem;
     height: 4rem;
 }
-#subheading4-tilte4  {
+.subheading4-tilte4  {
     width: 377px;
     height: 21px;
     font-family: 'Poppins';
@@ -304,7 +301,7 @@ nav ul  {
     font-size: 14px;
     line-height: 21px;
 }
-#tittle4-word  {
+.tittle4-word  {
 
     width: 492px;
     height: 84px;
@@ -474,8 +471,6 @@ nav ul  {
     position: absolute;
     width: 70px;
     height: 70px;
-    left:px;
-    top: px;
     border: none;
     margin: 20px;
     border-radius: 40px;
@@ -486,7 +481,6 @@ nav ul  {
     position: absolute;
     width: 458px;
     height: 57px;
-    left: px;
     top:100px;
     font-family: 'Poppins';
     font-style: normal;
@@ -509,7 +503,6 @@ nav ul  {
 }
 #box-name  {
     position: absolute;
-    left: px;
     top: 270px;
     font-family: 'Poppins';
     font-style: normal;
@@ -687,4 +680,5 @@ nav ul  {
 
 
 }
+
 

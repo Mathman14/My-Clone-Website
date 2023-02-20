@@ -1,0 +1,346 @@
+@media only screen and (max-width:667px)  {
+    .main-container  {
+        overflow-x: hidden;
+    }
+    .home-page .intro-page1  {
+        width: 75vw;
+        height: 12rem;
+    }
+    .home-page .intro-page2  {
+        position: absolute;
+        width: 25vw;
+        height: 7rem;
+        left: 17.6rem;
+        top: 0.1rem;
+        
+        
+    }
+    .home-page .intro-page-img  {
+        position: absolute;
+        background-size:contain;
+        width: 25vw;
+        height: 7rem;
+        left: 13.7rem;
+        top: 3.8rem;
+            
+    }
+    .intro-page-text1  {
+        position: relative;
+        top: 4rem;
+        left: 1rem;
+        width: 550px;
+        height: 110px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size:calc(13px);
+        line-height: 20px;
+        color: white;
+    }
+    .btn1  {
+        position: relative;
+        height: 23px;
+        width: 65px;
+        left: 0.5rem;
+        top: -3.7rem;
+        border-radius: 100px;
+        
+
+    }
+    #btn1-word  {
+        font-size: 7px;
+    }
+    .btn2  {
+        height: 23px;
+        width: 65px;
+        left: 5rem;
+        top: -5.2rem;
+        border-radius: 100px;
+    }
+    #btn2-word {
+        font-size: 7px;
+            
+    }
+    .intro-page-text2  {
+        position: relative;
+        top: 0rem;
+        left: 1rem;
+        width:150px;
+        height: 110px;
+        font-family: 'Montserrat';
+        font-weight: 300;
+        font-size:5px;
+        line-height: 10.07px;
+        color: white;
+    }
+
+    .home-page .intro-page3  {
+        position: absolute;
+        left: 11.7rem;
+        top:5.8rem;
+        width:25vw;
+        height:6.5rem;
+        border-bottom-right-radius: 0px;
+    }
+
+    nav ul  {
+        display: none;
+    }
+    .font-message {
+        position: absolute;
+        top: 13.5rem;
+        left: 18.5rem;
+        width: 50px;
+        height: 50px;
+    }
+    .section-1 {
+        display: flex;
+        position: absolute;
+        top: 16rem;
+        left: 1rem;
+    }
+    .image-section {
+        position: relative;
+        width: 150px;
+        height: 281px;
+        top: 5rem;
+    }
+    .heading-section1 {
+        position: relative;
+        width: 115px;
+        height: 44px;
+        font-size: 12px;
+        top:2rem;
+        left:-4rem;
+    }
+    .underneath-words  {
+        position: relative;
+        top: 2rem;
+        left: -5.7rem;
+        width: 184px;
+        height: 57px;
+        font-size: 7px;
+        line-height: 16px;
+    }
+    .section1-subheading1  {
+        position: absolute;
+        top: 7rem;
+        left:10rem;
+        gap: 5px;
+    }
+    .section1-subheading1 #imageheading1  {
+        border: none;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .subheading1-tilte1  {
+        font-size:6px;
+    }
+    .tittle1-word  {
+    
+        width: 158px;
+        height: 51px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 4px;
+        line-height: 10px;
+        padding-top: 1px;
+    }
+    .section1-subheading2  {
+        position: absolute;
+        top: 11rem;
+        left: 10rem;
+        gap: 5px;
+    }
+    .section1-subheading2 #imageheading2  {
+        border: none;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .subheading2-tilte2  {
+        font-size: 6px;
+    }
+    .tittle2-word  {
+    
+        width: 158px;
+        height: 51px;
+        font-weight: 200;
+        font-size: 4px;
+        line-height: 10px;
+        padding-top: 1px;
+    }
+    .section1-subheading3  {
+        position: absolute;
+        top: 15rem;
+        left: 10rem;
+        gap: 5px;
+    }
+    .section1-subheading3 #imageheading3  {
+        border: none;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .subheading3-tilte3  {
+        font-size: 6px;
+    }
+    .tittle3-word  {
+    
+        width: 158px;
+        height: 51px;
+        font-weight: 200;
+        font-size: 4px;
+        line-height: 10px;
+        padding-top: 1px;
+    }
+    .section1-subheading4  {
+        position: absolute;
+        top: 19rem;
+        left: 10rem;
+        gap: 5px;
+    }
+    .section1-subheading4 #imageheading4  {
+        border: none;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .subheading4-tilte4  {
+        font-size: 6px;
+    }
+    .tittle4-word {
+    
+        width: 158px;
+        height: 51px;
+        font-weight: 200;
+        font-size: 4px;
+        line-height: 10px;
+        padding-top: 1px;
+    }
+    .section2 { 
+        position: relative;
+        top: 39rem;
+        display:block;
+    }
+    .section2 .section2-div1 {
+        width: 100vw;
+        height:16rem;
+        left: 0px;
+        top: 2012px;
+    }
+    #section2-div1-image  {
+        position: absolute;
+        width: 90vw;
+        height: 15rem;
+        left: 1rem;
+        top: 0.5rem;
+    }
+    .section2 .section2-div2  {
+        width: 100vw;
+        height: 15rem;
+        left:9rem;
+        top: 30rem;
+    }
+    .section2-div2 #section2-div2-header  {
+        position: absolute;
+        top: 17rem;
+        left: 5rem;
+        width: 240px;
+        font-size: 18px;
+    }
+    .section2 #section2-div2-words  {
+        position: absolute;
+        width: 339px;
+        height: 128px;
+        left: 2rem;
+        top: 20rem;
+        font-size: 12px;
+    } 
+    .section2 #section2-button  {
+        display: flex;
+        position: absolute;
+        width: 140px;
+        margin: 0 auto;
+        height: 25px;
+        left: 7rem;
+        top: 30rem;
+        font-size: 8px;
+        align-items: center;
+    }
+    .section-3  {
+        display: none;
+    }
+    .section-4 {
+        position: relative;
+        top: 43.5rem;
+        display:block;
+    }
+    .section-4 .section4-div1 {
+        width: 100vw;
+        height: 20rem;
+        top: 50rem;
+    }
+    .section-4 .section4-div1-image {
+        width: 90vw;
+        height: 18rem;
+        left: 15.5px;
+        top:14px;
+        
+    }
+    .section-4 .section4-div2 {
+        width: 100vwpx;
+        height: 60rem;
+        top:60rem;
+    }
+    .section4-div2 #section4-div2-header {
+        position: absolute;
+        top: 21rem;
+        text-align: center;
+        left: 7rem ;
+        width: 160px;
+        height: 44px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 44px;
+    }
+    .section-4 #section4-div2-words {
+        position: absolute;
+        width: 339px;
+        height: 128px;
+        left: 2rem;
+        top: 24rem;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .section4 #section4-button1 {
+        display: flex;
+        position: absolute;
+        width: 140px;
+        margin: 0 auto;
+        height: 25px;
+        left: 2rem;
+        top: 10rem;
+        font-size: 8px;
+        align-items: center;
+    }
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+}
